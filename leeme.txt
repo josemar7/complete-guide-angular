@@ -1,0 +1,13 @@
+Instalar cliente: npm install -g @angular/cli@latest
+Crear aplicación: ng new my-first-app
+arranacar el servidor: ng serve
+
+instalar bootstrap: npm install --save bootstrap@3
+añadir bootstrap al proyecto: en angular.json, en "styles", añadir una entrada -> "node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+Crear un componente: ng generate component servers (ng g c servers)
+
+
+- databinding:
+output: []
+input:  ()
